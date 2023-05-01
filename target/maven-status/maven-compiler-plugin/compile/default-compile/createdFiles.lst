@@ -31,6 +31,7 @@ com\backEnd\backEnd\security\AuthRequest.class
 com\backEnd\backEnd\repository\UserRepo.class
 com\backEnd\backEnd\models\User.class
 com\backEnd\backEnd\AplicationSecurityConfig.class
+WebConfig.class
 com\backEnd\backEnd\services\CursosService.class
 com\backEnd\backEnd\repository\UsuarioRepo.class
 com\backEnd\backEnd\BackEndApplication.class

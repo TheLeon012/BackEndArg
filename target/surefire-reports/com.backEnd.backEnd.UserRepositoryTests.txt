@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.backEnd.backEnd.UserRepositoryTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.761 s - in com.backEnd.backEnd.UserRepositoryTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.136 s - in com.backEnd.backEnd.UserRepositoryTests
