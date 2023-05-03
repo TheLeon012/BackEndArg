@@ -13,6 +13,7 @@ com\backEnd\backEnd\controller\ProyectosController.class
 com\backEnd\backEnd\controller\SkillsController.class
 com\backEnd\backEnd\models\Contacto.class
 com\backEnd\backEnd\models\Skills.class
+com\backEnd\backEnd\WebConfig.class
 com\backEnd\backEnd\models\Usuario.class
 com\backEnd\backEnd\security\AuthApi.class
 com\backEnd\backEnd\models\Cursos.class
@@ -31,7 +32,6 @@ com\backEnd\backEnd\security\AuthRequest.class
 com\backEnd\backEnd\repository\UserRepo.class
 com\backEnd\backEnd\models\User.class
 com\backEnd\backEnd\AplicationSecurityConfig.class
-WebConfig.class
 com\backEnd\backEnd\services\CursosService.class
 com\backEnd\backEnd\repository\UsuarioRepo.class
 com\backEnd\backEnd\BackEndApplication.class
